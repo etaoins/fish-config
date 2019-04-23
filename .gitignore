@@ -1,4 +1,5 @@
 /fishd.*
+/local.fish
 
 # Vim installs these
 /functions/fish_user_key_bindings.fish

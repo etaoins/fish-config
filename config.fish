@@ -6,3 +6,7 @@ set __fish_git_prompt_showupstream 1
 
 set fish_greeting
 set -x EDITOR vim
+
+if test -e ~/.config/fish/local.fish
+	source ~/.config/fish/local.fish
+end
