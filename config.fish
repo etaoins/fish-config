@@ -5,3 +5,4 @@ set __fish_git_prompt_showstashstate 1
 set __fish_git_prompt_showupstream 1
 
 set fish_greeting
+set -x EDITOR vim
