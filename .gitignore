@@ -1,4 +1,5 @@
 /fishd.*
+/fish_variables
 /local.fish
 
 # Vim installs these
