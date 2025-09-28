@@ -5,3 +5,6 @@
 # Vim installs these
 /functions/fish_user_key_bindings.fish
 /functions/fzf_key_bindings.fish
+
+# Rustup installs this
+/conf.d/rustup.fish
